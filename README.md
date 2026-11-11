@@ -14,7 +14,7 @@
     <a href="https://github.com/satyam-vaish">
       <img src="https://img.shields.io/badge/GitHub-satyam--vaish-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
-    <a href="https://www.linkedin.com/in/satyam-vaish">
+    <a href="https://www.linkedin.com/in/satyam-vasih07/">
       <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Vaish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
     </a>
     <a href="mailto:mr.satyamv07@gmail.com">
@@ -168,7 +168,7 @@ A full-stack system that automates employee records, payroll computation, and ta
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/satyam-vaish">
+  <a href="https://www.linkedin.com/in/satyam-vasih07/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mr.satyamv07@gmail.com">
