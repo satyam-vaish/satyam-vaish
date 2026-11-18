@@ -1,191 +1,231 @@
-<!-- ===================================================== -->
-<!--              SATYAM VAISH - PROFILE README             -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-  <img src="assets/banner.svg" width="100%" alt="Satyam Vaish - Full-Stack Engineer & AI/ML Specialist" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00FF66,60:00E5FF,100:8A2BE2&height=270&section=header&text=SATYAM%20VAISH&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%99%20Full-Stack%20Engineer%20%E2%80%A2%20Production%20MLOps%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=16&descColor=ffffff&animation=twinkling"/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=820&lines=Full-Stack+Engineer+%7C+Next.js+%C2%B7+FastAPI+%C2%B7+TypeScript;MLOps+%26+Production+AI+%7C+CREDENCE+Risk+Engine;Oracle+Agentic+AI+Certified+Foundations+Associate;Quantitative+XAU%2FUSD+Market+Intelligence" alt="Typing introduction" />
-  </p>
+<a href="https://github.com/satyam-vaish">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+model.fit%28epochs%3D%E2%88%9E%29;Epoch+1%2F%E2%88%9E+-+loss%3A+bugs+%E2%86%93+skills+%E2%86%91;%3E+B.Tech+CSE+%40+LPU;%3E+training+now%3A+credence-mlops;%3E+status%3A+converging+...&font=Fira+Code&size=19&pause=1500&color=00FF66&background=00000000&center=true&vCenter=true&width=700&height=45"/>
+</a>
 
-  <p align="center">
-    <a href="https://github.com/satyam-vaish">
-      <img src="https://img.shields.io/badge/GitHub-satyam--vaish-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/satyam-vasih07/">
-      <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Vaish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-    </a>
-    <a href="mailto:mr.satyamv07@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mr.satyamv07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 100+" />
-  </p>
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech_CSE-000000?style=for-the-badge&labelColor=000000&color=00FF66"/>
+<img src="https://img.shields.io/badge/Lovely_Professional_University-000000?style=for-the-badge&labelColor=000000&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Oracle_Agentic_AI_Certified-000000?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=satyam-vaish&style=for-the-badge&color=00ff66&labelColor=000000&label=PROFILE+VIEWS"/>
+<a href="https://github.com/satyam-vaish?tab=followers"><img src="https://img.shields.io/github/followers/satyam-vaish?style=for-the-badge&labelColor=000000&color=00e5ff&label=FOLLOWERS"/></a>
 
 </div>
 
----
-
-## 👋 About Me
-
-Hi! I'm **Satyam Vaish**, a **B.Tech Computer Science and Engineering** student at **Lovely Professional University (LPU)** specializing in **Full-Stack Engineering, Production MLOps, Agentic AI**, and **Quantitative Market Systems**.
-
-- ⚡ **Production MLOps & Systems:** Designing automated end-to-end ML pipelines with **FastAPI, LightGBM, XGBoost, MLflow, DVC, Pandera**, and Docker.
-- 💻 **Full-Stack Web Engineering:** Building responsive, high-performance web applications using **Next.js, React.js, TypeScript, Tailwind CSS, Node.js, Express**, and **C++17**.
-- 🤖 **AI / Machine Learning:** **Oracle Certified in Agentic AI** & Generative AI; experienced in feature pipelines, SHAP explainability, and real-time distribution drift tracking.
-- 📈 **Market Intelligence:** Engineered an institutional-grade **Gold (XAU/USD) Top-Down Analysis** platform with multi-timeframe price action, liquidity mapping, WebSockets, and predictive signals.
-- 🧩 **Algorithmic Problem Solving:** Solved **100+ problems on LeetCode** with continuous focus on data structures, system design, and algorithmic efficiency.
-
----
-
-## 🚀 Featured Projects
-
-### 1. ⚡ [CREDENCE — Production Credit Default Risk Engine & MLOps Platform](https://github.com/satyam-vaish/CREDENCE)
-
-An enterprise-grade, end-to-end credit risk scoring and drift-monitoring platform built for production financial infrastructure.
-
-- **Dual-Model ML Architecture:** Trains and evaluates calibrated **LightGBM** and **XGBoost** pipelines with isotonic calibration, optimal threshold tuning based on cost curves, and SHAP counterfactual explanations.
-- **Production MLOps Pipeline:** Experiment tracking with **MLflow**, configuration management with **Hydra**, data lineage with **DVC**, schema enforcement via **Pandera**, and **>90% unit test coverage**.
-- **Real-Time Drift Engine:** Continuously tracks Population Stability Index (PSI) and Kolmogorov-Smirnov drift across 47+ historical batches with automated retraining triggers.
-- **Ultra-Low Latency Dashboard:** High-frequency FastAPI backend (<20ms response) paired with an interactive Vite + React dark-mode financial terminal featuring 60fps physics animations and mock mode.
-- **Cloud-Native Deployment:** Multi-service orchestration ready for **Vercel** and **Render** with complete Docker and GitHub Actions CI/CD automation.
-
-**Stack:** `Python` · `FastAPI` · `LightGBM` · `XGBoost` · `Scikit-learn` · `MLflow` · `React` · `TypeScript` · `Vite` · `Docker` · `Vercel`
-
-<p>
-  <a href="https://github.com/satyam-vaish/CREDENCE">
-    <img src="https://img.shields.io/badge/View%20Repository-CREDENCE-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="CREDENCE Repository" />
-  </a>
-</p>
-
----
-
-### 2. 🥇 [Gold (XAU/USD) Top-Down Analysis Platform](https://github.com/satyam-vaish/Gold-Xau-usd-Top-to-Down-Analysis)
-
-An institutional-grade **XAU/USD (Spot)** & **GC1! (COMEX Futures)** market intelligence platform built with a real-time trading-terminal UI.
-
-- Built a structured **top-down analysis** workflow for Gold (`XAU/USD`), establishing directional bias on higher timeframes and refining entries on lower timeframes.
-- Applied **price action & multi-timeframe market structure analysis** (BOS, CHoCH, MSS, HH/HL/LH/LL) across 11 timeframes (`1M` – `1M`).
-- Marked key **support/resistance, supply/demand (FVG & Order Blocks), and liquidity levels (BSL/SSL, PDH/PDL, PWH/PWL)** with documented reasoning.
-- Aligned lower-timeframe entry confirmations with higher-timeframe directional bias and integrated real-time WebSocket streaming, backtesting, and predictive analytics.
-
-**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `TradingView Lightweight Charts` · `WebSockets` · `FastAPI` · `Scikit-learn` · `PostgreSQL`
-
-<p>
-  <a href="https://github.com/satyam-vaish/Gold-Xau-usd-Top-to-Down-Analysis">
-    <img src="https://img.shields.io/badge/View%20Repository-Gold%20XAU%2FUSD%20Analysis-FFE600?style=for-the-badge&logo=github&logoColor=black" alt="Gold XAUUSD Top-Down Analysis" />
-  </a>
-</p>
-
----
-
-## 🧰 Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Frontend & Backend Engineering
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-### Machine Learning & MLOps
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=google&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-### Cloud, DevOps & Databases
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-## 📜 Certifications & Training
-
-| Category | Title | Issuer / Institution | Period / Date |
-|---|---|---|---|
-| **Certification** | **Oracle Agentic AI Certified Foundations Associate** | Oracle | Sep 2026 |
-| **Certification** | **Generative AI** | Udemy | Jul 2026 |
-| **Certification** | **Intro to AI** | Udemy | Sep 2026 |
-| **Certification** | **AI for Everyone** | Online Specialization | Sep 2026 |
-| **Training** | **Programming in JAVA** | Lovely Professional University | Jan 2026 – May 2026 |
-| **Training** | **Data Structures & Algorithms (DSA)** | Lovely Professional University | Jul 2025 – Jan 2026 |
-| **Training** | **Object Oriented Programming (OOP)** | Lovely Professional University | Jul 2025 – Jan 2026 |
-| **Training** | **Computer Programming** | Lovely Professional University | Jan 2025 – May 2025 |
-
----
-
-## 🎓 Education & Achievements
-
-- **Bachelor of Technology in Computer Science and Engineering** — *Lovely Professional University, Punjab, India* (`Aug 2024 – Present` · **CGPA: 7.49**)
-- **Intermediate (12th)** — *Kendriya Vidyalaya, Nasik, Maharashtra* (`Mar 2021 – Mar 2022` · **83%**)
-- **Matriculation (10th)** — *Kendriya Vidyalaya, Nasik, Maharashtra* (`Mar 2022 – Mar 2023` · **78.8%**)
-- 🏆 **Achievements:** Solved **100+ problems on LeetCode**, earned multiple **Python badges on HackerRank**, and created production-grade full-stack & MLOps architectures.
-
----
-
-## 📊 GitHub Statistics
+<br/>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyam-vaish&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-vaish&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-  <br />
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=satyam-vaish&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+## `◈ 01 — MODEL_SUMMARY`
 
 </div>
 
----
+I'm **Satyam Vaish**, a B.Tech CSE student at Lovely Professional University, engineering production-grade full-stack, MLOps, and Agentic AI systems — independently, from scratch, end to end.
 
-## 🤝 Connect With Me
+> *"I don't build projects for marks. I build production-grade systems that solve real problems."*
+
+```text
+Model: "satyam_vaish"
+┌─────────────────────┬──────────────────────────────────────────────┐
+│ Layer (type)        │ Output                                       │
+├─────────────────────┼──────────────────────────────────────────────┤
+│ input_foundations   │ DSA · OOP · OS · DBMS · Computer Networks    │
+│ dense_fullstack     │ Next.js · React · TypeScript · FastAPI · C++ │
+│ attention_mlops     │ LightGBM · XGBoost · MLflow · DVC · Docker   │
+│ agentic_ai          │ Oracle Agentic AI · GenAI · Tool Orchestration│
+│ market_intel        │ Quantitative Price Action · WebSockets · XAU │
+│ output_production   │ Shipped, deployed, low-latency architectures │
+└─────────────────────┴──────────────────────────────────────────────┘
+Optimizer: curiosity   |   Loss: shipping bugs   |   Status: training
+```
+
+**Right now** — shipping `CREDENCE`, a production-grade credit default risk scoring & real-time drift monitoring MLOps platform.
+
+<br/>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/satyam-vasih07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mr.satyamv07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/satyam-vaish">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+## `◈ 02 — NETWORK_ARCHITECTURE`
 
-  <p><i>Problem-solving · Team Collaboration · Adaptability · Continuous Learning</i></p>
+<sub>how foundations flow into production systems</sub>
 
 </div>
+
+```mermaid
+flowchart LR
+  subgraph IN[" Input Layer "]
+    I1(DSA & OOP)
+    I2(OS & Networks)
+    I3(DBMS & SQL)
+  end
+  subgraph H1[" Hidden Layer 1 "]
+    A1(Full-Stack Web)
+    A2(Machine Learning)
+    A3(Agentic AI)
+  end
+  subgraph H2[" Hidden Layer 2 "]
+    B1(FastAPI & Backend)
+    B2(MLOps & Drift Engine)
+    B3(Real-Time WebSockets)
+  end
+  subgraph OUT[" Output Layer "]
+    O1{{Production AI & Cloud Systems}}
+  end
+  I1 & I2 & I3 --> A1 & A2 & A3
+  A1 & A2 & A3 --> B1 & B2 & B3
+  B1 & B2 & B3 --> O1
+  style IN fill:#04060a,stroke:#00FF66,color:#00FF66
+  style H1 fill:#04060a,stroke:#00E5FF,color:#00E5FF
+  style H2 fill:#04060a,stroke:#8A2BE2,color:#c9a0ff
+  style OUT fill:#04060a,stroke:#00FF66,color:#00FF66
+```
+
+<br/>
+
+<div align="center">
+
+## `◈ 03 — LAYERS (TECH_STACK)`
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,postgres,html,css&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind&theme=dark"/>
+
+**Backend & Systems**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/C%2B%2B17_Systems-000000?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2"/>
+
+**AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logoColor=00FF66&color=000000"/>
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=00E5FF&color=000000"/>
+<img src="https://img.shields.io/badge/Oracle_Agentic_AI-000000?style=for-the-badge&logoColor=8A2BE2&color=000000"/>
+
+**MLOps & Cloud DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,linux,git,github,githubactions,vscode&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/DVC-000000?style=for-the-badge&logoColor=00E5FF&color=000000"/>
+<img src="https://img.shields.io/badge/Hydra_Config-000000?style=for-the-badge&logoColor=8A2BE2&color=000000"/>
+
+**Databases & Storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase&theme=dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `◈ 04 — TRAINING_RUNS (PROJECTS)`
+
+<sub>pulled from <a href="https://github.com/satyam-vaish?tab=repositories">github.com/satyam-vaish</a> — real repositories only</sub>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ CREDENCE
+<img src="https://img.shields.io/badge/RUN-CONVERGED-00FF66?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=8A2BE2"/>
+
+Production Credit Default Risk Engine & Real-Time Drift Monitoring Platform.
+
+- Calibrated LightGBM + XGBoost with isotonic tuning & cost curves
+- Real-time PSI & Kolmogorov-Smirnov drift across 47+ historical batches
+- High-frequency FastAPI backend (<20ms response) + Vite React UI
+- Full MLOps: MLflow, Hydra, DVC, Pandera, Docker, Vercel & Render CI/CD
+
+**[→ View Repository](https://github.com/satyam-vaish/CREDENCE)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🥇 Gold-Xau-usd-Top-to-Down-Analysis
+<img src="https://img.shields.io/badge/RUN-CONVERGED-00E5FF?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00FF66"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=8A2BE2"/>
+
+Institutional-grade Gold (XAU/USD Spot & GC1! Futures) multi-timeframe price action intelligence platform.
+
+- Multi-timeframe market structure (BOS, CHoCH, Order Blocks, Liquidity Sweeps)
+- 11 timeframe analysis (`1M` – `1M`) with documented reasoning
+- Real-time WebSocket streaming with TradingView Lightweight Charts
+- FastAPI backend with Scikit-learn predictive signals & backtesting
+
+**[→ View Repository](https://github.com/satyam-vaish/Gold-Xau-usd-Top-to-Down-Analysis)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## `◈ 05 — TRAINING_LOGS (ANALYTICS)`
+
+<img src="https://github-readme-stats.vercel.app/api?username=satyam-vaish&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00E5FF&text_color=ffffff&ring_color=8A2BE2&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-vaish&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&text_color=ffffff&langs_count=8" height="165"/>
+
+<!-- Streak: bump v= to force GitHub to refetch -->
+<img src="https://streak-stats.demolab.com/?user=satyam-vaish&theme=dark&hide_border=true&background=00000000&ring=00FF66&fire=00E5FF&currStreakLabel=00FF66&sideLabels=8A2BE2&dates=ffffff&v=2" width="85%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-vaish&bg_color=04060a&color=00FF66&line=00E5FF&point=8A2BE2&area=true&area_color=00E5FF&hide_border=true&title_color=00FF66" width="95%"/>
+
+<a href="https://leetcode.com/u/satyam-vaish/">
+<img src="https://leetcard.jacoblin.cool/satyam-vaish?theme=dark&font=Fira%20Code&ext=heatmap&bg_color=00000000&border_color=00FF66&text_color=ffffff"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## `◈ 06 — INFERENCE`
+
+</div>
+
+```python
+>>> from satyam import Engineer
+>>> model = Engineer.load("production")
+>>> model.predict("mission-critical fullstack & AI systems")
+[████████████████████] 100%   output: shipped ✔
+
+>>> model.goal
+'Engineer high-performance full-stack architectures and production MLOps systems'
+
+>>> model.fit(epochs=float("inf"))
+Epoch 1/∞ ... loss ↓  skills ↑  _
+```
+
+<div align="center">
+
+## `◈ 07 — CONNECT`
+
+<a href="https://www.linkedin.com/in/satyam-vasih07/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://leetcode.com/u/satyam-vaish/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2"/></a>
+<a href="https://github.com/satyam-vaish"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:mr.satyamv07@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:00FF66&height=140&section=footer&animation=twinkling"/>
+
+<div align="center"><sub>⚡ Weights updated. See you in the next commit. ⚡</sub></div>
