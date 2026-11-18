@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:00FF66,60:00E5FF,100:8A2BE2&height=270&section=header&text=SATYAM%20VAISH&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%99%20Full-Stack%20Engineer%20%E2%80%A2%20Production%20MLOps%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=16&descColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007A,25:7928CA,50:00F0FF,75:00FF88,100:FFE600&height=280&section=header&text=SATYAM%20VAISH&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%E2%80%A2%20Production%20MLOps%20%E2%80%A2%20Agentic%20AI&descAlignY=58&descSize=16&descColor=ffffff&animation=twinkling"/>
 
 <a href="https://github.com/satyam-vaish">
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E+model.fit%28epochs%3D%E2%88%9E%29;Epoch+1%2F%E2%88%9E+-+loss%3A+bugs+%E2%86%93+skills+%E2%86%91;%3E+B.Tech+CSE+%40+LPU;%3E+training+now%3A+credence-mlops;%3E+status%3A+converging+...&font=Fira+Code&size=19&pause=1500&color=00FF66&background=00000000&center=true&vCenter=true&width=700&height=45"/>
@@ -188,10 +188,6 @@ Institutional-grade Gold (XAU/USD Spot & GC1! Futures) multi-timeframe price act
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-vaish&bg_color=04060a&color=00FF66&line=00E5FF&point=8A2BE2&area=true&area_color=00E5FF&hide_border=true&title_color=00FF66" width="95%"/>
 
-<a href="https://leetcode.com/u/satyam-vaish/">
-<img src="https://leetcard.jacoblin.cool/satyam-vaish?theme=dark&font=Fira%20Code&ext=heatmap&bg_color=00000000&border_color=00FF66&text_color=ffffff"/>
-</a>
-
 </div>
 
 <br/>
@@ -220,12 +216,11 @@ Epoch 1/∞ ... loss ↓  skills ↑  _
 ## `◈ 07 — CONNECT`
 
 <a href="https://www.linkedin.com/in/satyam-vasih07/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://leetcode.com/u/satyam-vaish/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8A2BE2"/></a>
 <a href="https://github.com/satyam-vaish"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 <a href="mailto:mr.satyamv07@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:00FF66&height=140&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE600,25:00FF88,50:00F0FF,75:7928CA,100:FF007A&height=140&section=footer&animation=twinkling"/>
 
 <div align="center"><sub>⚡ Weights updated. See you in the next commit. ⚡</sub></div>

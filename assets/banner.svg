@@ -1,80 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="100%" height="290">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080b11" />
-      <stop offset="50%" stop-color="#0e1422" />
-      <stop offset="100%" stop-color="#06080d" />
+    <!-- Vibrant Neon Gradients -->
+    <linearGradient id="vibrant-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0518" />
+      <stop offset="35%" stop-color="#120c24" />
+      <stop offset="70%" stop-color="#081426" />
+      <stop offset="100%" stop-color="#040b14" />
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F59E0B" />
-      <stop offset="50%" stop-color="#FBBF24" />
-      <stop offset="100%" stop-color="#FCD34D" />
+    <linearGradient id="vibrant-text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF007A" />
+      <stop offset="25%" stop-color="#A855F7" />
+      <stop offset="50%" stop-color="#00F0FF" />
+      <stop offset="75%" stop-color="#00FF88" />
+      <stop offset="100%" stop-color="#FFE600" />
     </linearGradient>
-    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06B6D4" />
-      <stop offset="100%" stop-color="#3B82F6" />
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF007A" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.6" />
     </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(255, 255, 255, 0.035)" stroke-width="1" />
+    <linearGradient id="wave2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00FF88" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FF007A" stop-opacity="0.5" />
+    </linearGradient>
+    <!-- Glowing Radials -->
+    <radialGradient id="glow-magenta" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="rgba(255, 0, 122, 0.25)" />
+      <stop offset="100%" stop-color="rgba(10, 5, 24, 0)" />
+    </radialGradient>
+    <radialGradient id="glow-cyan" cx="85%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="rgba(0, 240, 255, 0.22)" />
+      <stop offset="100%" stop-color="rgba(4, 11, 20, 0)" />
+    </radialGradient>
+    <radialGradient id="glow-gold" cx="50%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="rgba(255, 230, 0, 0.16)" />
+      <stop offset="100%" stop-color="rgba(10, 5, 24, 0)" />
+    </radialGradient>
+    <pattern id="cyber-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="rgba(255, 255, 255, 0.04)" stroke-width="1" />
     </pattern>
-    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
-      <stop offset="0%" stop-color="rgba(245, 158, 11, 0.12)" />
-      <stop offset="100%" stop-color="rgba(8, 11, 17, 0)" />
-    </radialGradient>
-    <radialGradient id="glow-cyan" cx="85%" cy="30%" r="40%">
-      <stop offset="0%" stop-color="rgba(6, 182, 212, 0.09)" />
-      <stop offset="100%" stop-color="rgba(8, 11, 17, 0)" />
-    </radialGradient>
   </defs>
 
   <style>
-    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 54px; letter-spacing: 2px; }
-    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 17px; fill: #94A3B8; letter-spacing: 3px; }
-    .pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 12px; letter-spacing: 1px; }
+    .vibrant-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 900; font-size: 56px; letter-spacing: 3px; }
+    .vibrant-subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 17px; fill: #E2E8F0; letter-spacing: 3px; }
+    .vibrant-pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 12px; letter-spacing: 1.5px; }
   </style>
 
-  <!-- Background -->
-  <rect width="1200" height="280" rx="16" fill="url(#bg)" />
-  <rect width="1200" height="280" rx="16" fill="url(#glow)" />
-  <rect width="1200" height="280" rx="16" fill="url(#glow-cyan)" />
-  <rect width="1200" height="280" rx="16" fill="url(#grid)" />
+  <!-- Background Base -->
+  <rect width="1200" height="290" rx="18" fill="url(#vibrant-bg)" />
+  <rect width="1200" height="290" rx="18" fill="url(#glow-magenta)" />
+  <rect width="1200" height="290" rx="18" fill="url(#glow-cyan)" />
+  <rect width="1200" height="290" rx="18" fill="url(#glow-gold)" />
+  <rect width="1200" height="290" rx="18" fill="url(#cyber-grid)" />
 
-  <!-- Outer Border -->
-  <rect x="1" y="1" width="1198" height="278" rx="15" fill="none" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1.5" />
+  <!-- Ambient Wave Ribbons -->
+  <path d="M 0 210 Q 300 160 600 220 T 1200 190 L 1200 290 L 0 290 Z" fill="url(#wave1)" />
+  <path d="M 0 230 Q 300 270 600 210 T 1200 240 L 1200 290 L 0 290 Z" fill="url(#wave2)" />
 
-  <!-- Accent top line -->
-  <path d="M 40 1 L 280 1" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" />
-  <path d="M 920 1 L 1160 1" stroke="url(#cyan)" stroke-width="3" stroke-linecap="round" />
+  <!-- Vibrant Border Frame -->
+  <rect x="1.5" y="1.5" width="1197" height="287" rx="17" fill="none" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1.5" />
+  <path d="M 30 1.5 L 350 1.5" stroke="#FF007A" stroke-width="3" stroke-linecap="round" />
+  <path d="M 400 1.5 L 800 1.5" stroke="#00F0FF" stroke-width="3" stroke-linecap="round" />
+  <path d="M 850 1.5 L 1170 1.5" stroke="#00FF88" stroke-width="3" stroke-linecap="round" />
 
-  <!-- Main Content Centered -->
-  <g transform="translate(600, 110)">
-    <!-- Main Name -->
-    <text class="title" text-anchor="middle" fill="url(#gold)">SATYAM VAISH</text>
-    
+  <!-- Center Content -->
+  <g transform="translate(600, 115)">
+    <!-- Main Radiant Title -->
+    <text class="vibrant-title" text-anchor="middle" fill="url(#vibrant-text)">SATYAM VAISH</text>
+
     <!-- Subtitle -->
-    <text class="subtitle" text-anchor="middle" y="44">FULL-STACK ENGINEER  •  PRODUCTION MLOPS  •  AGENTIC AI</text>
-    
-    <!-- Pills/Badges -->
-    <g transform="translate(0, 82)">
-      <!-- Pill 1: Oracle Certified -->
-      <g transform="translate(-270, 0)">
-        <rect x="-115" y="-14" width="230" height="28" rx="14" fill="rgba(245, 158, 11, 0.1)" stroke="rgba(245, 158, 11, 0.3)" stroke-width="1" />
-        <circle cx="-95" cy="0" r="4" fill="#F59E0B" />
-        <text class="pill" text-anchor="middle" x="8" y="4" fill="#FBBF24">ORACLE AGENTIC AI</text>
+    <text class="vibrant-subtitle" text-anchor="middle" y="44">⚡ FULL-STACK ENGINEER  •  PRODUCTION MLOPS  •  AGENTIC AI</text>
+
+    <!-- Chips / Badges Row -->
+    <g transform="translate(0, 84)">
+      <!-- Chip 1: Oracle Certified -->
+      <g transform="translate(-250, 0)">
+        <rect x="-110" y="-14" width="220" height="28" rx="14" fill="rgba(255, 0, 122, 0.18)" stroke="#FF007A" stroke-width="1.2" />
+        <circle cx="-90" cy="0" r="4.5" fill="#FF007A" />
+        <text class="vibrant-pill" text-anchor="middle" x="10" y="4" fill="#FF85C0">ORACLE AGENTIC AI</text>
       </g>
-      
-      <!-- Pill 2: LPU CSE -->
+
+      <!-- Chip 2: LPU CSE -->
       <g transform="translate(0, 0)">
-        <rect x="-95" y="-14" width="190" height="28" rx="14" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1" />
-        <circle cx="-75" cy="0" r="4" fill="#94A3B8" />
-        <text class="pill" text-anchor="middle" x="8" y="4" fill="#CBD5E1">B.TECH CSE @ LPU</text>
+        <rect x="-95" y="-14" width="190" height="28" rx="14" fill="rgba(0, 240, 255, 0.15)" stroke="#00F0FF" stroke-width="1.2" />
+        <circle cx="-75" cy="0" r="4.5" fill="#00F0FF" />
+        <text class="vibrant-pill" text-anchor="middle" x="10" y="4" fill="#80F7FF">B.TECH CSE @ LPU</text>
       </g>
-      
-      <!-- Pill 3: LeetCode 100+ -->
-      <g transform="translate(260, 0)">
-        <rect x="-105" y="-14" width="210" height="28" rx="14" fill="rgba(6, 182, 212, 0.1)" stroke="rgba(6, 182, 212, 0.3)" stroke-width="1" />
-        <circle cx="-85" cy="0" r="4" fill="#06B6D4" />
-        <text class="pill" text-anchor="middle" x="8" y="4" fill="#38BDF8">LEETCODE 100+ SOLVED</text>
+
+      <!-- Chip 3: CREDENCE Engine -->
+      <g transform="translate(250, 0)">
+        <rect x="-110" y="-14" width="220" height="28" rx="14" fill="rgba(0, 255, 136, 0.15)" stroke="#00FF88" stroke-width="1.2" />
+        <circle cx="-90" cy="0" r="4.5" fill="#00FF88" />
+        <text class="vibrant-pill" text-anchor="middle" x="10" y="4" fill="#6EE7B7">CREDENCE RISK ENGINE</text>
       </g>
     </g>
   </g>
